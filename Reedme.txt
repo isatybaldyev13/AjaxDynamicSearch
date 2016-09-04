@@ -1,0 +1,4 @@
+Firstly you should create database named 
+Students.After import database and it ready.
+If you have questions you could send me email 
+(isatybaldyev13@gmail.com).
